@@ -1,0 +1,16 @@
+{
+  "name": "woodrunsdeep.com",
+  "version": "1.0.0",
+  "description": "Personal blog about hand tool woodworking",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "woodworking"
+  ],
+  "author": "Gleb Dmitriev",
+  "license": "ISC"
+}
